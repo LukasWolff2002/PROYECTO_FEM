@@ -1,0 +1,8 @@
+Elastic Uniaxial Material
+
+Elementos Quad y Tri31
+
+Problema, ahora no es no lineal
+ya que vamos a alcanzar la fluencia
+
+Por lo tanto hay que usar intervalos de carga en un pseudo tiempo
